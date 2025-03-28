@@ -1,0 +1,4 @@
+ola
+oko
+kosko
+
